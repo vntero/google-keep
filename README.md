@@ -8,6 +8,8 @@ A clone of the popular Google Keep Notes App built with React
 - Get even more familiar with deployment on Heroku or use Netflify this time around
 
 # Backlog:
-- user authentication
-- timestamps
-- dark mode
+- user authentication;
+- third-party authentication;
+- timestamps;
+- dark mode;
+- calendar and other google services integration;
