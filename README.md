@@ -1,5 +1,5 @@
 # google-keep
-A clone of the popular Google Keep Notes App built using React
+A clone of the popular Google Keep Notes App built with React
 
 # MVP:
 - practice React Hooks, Forms, Managing a component tree and more;
