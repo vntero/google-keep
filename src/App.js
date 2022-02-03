@@ -30,10 +30,10 @@ function App() {
     <div>
       <Header/>
       <CreateArea onAdd={addNote}/>
-      {notes.map( (eachNote) => (
+      {notes.map( (eachNote, index) => (
       <Note 
-        key={eachNote.key}
-        id=
+        key={index}
+        id={index}
         title={eachNote.title}
         content={eachNote.content}
         onDelete={deleteNote}
